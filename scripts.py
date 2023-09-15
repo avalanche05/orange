@@ -28,4 +28,6 @@ def get_symbol_id_by_name(symbol_name):
             return symbol.id
 
 
+
+
 print(get_symbol_id_by_name('Oranges/TreeSavvy Forestry'))
